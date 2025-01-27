@@ -29,7 +29,7 @@
 
 # arr2 = np.array([4, 5, 6])
 
-# arr = np.stack((arr1 ,arr2),axis=1)#row col=0
+# arr = np.stack((arr1 ,arr2),axis=1)# axis=1 ,row  #axis=0,col
 
 # print(arr)
 

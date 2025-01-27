@@ -1,8 +1,8 @@
-import numpy as np
+# import numpy as np
 
-arr= np.array([[1,2,3,4,5],[5,6,7,8,5]])
+# arr= np.array([[1,2,3,4,5],[5,6,7,8,5]])
 
-print(arr.shape)
+# print(arr.shape)
 #(2,5) which enas the array has 2 dimensions and it has 4 element
 
 

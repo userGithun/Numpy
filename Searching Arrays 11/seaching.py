@@ -1,4 +1,4 @@
-#Array function search sorting filter
+# # Array function search sorting filter
 
 # import numpy as np
 
@@ -25,7 +25,16 @@ import numpy as np
 
 arr = np.array([6,8,7,9])
 
-x = np.searchsorted(arr,7)
+x = np.searchsorted(arr,7 ,side='right')
 #index number
+
+print(x)
+
+#multiple Value
+import numpy as np
+
+arr = np.array([1,3,5,7])
+
+x = np.searchsorted(arr,[2,4,6]) #insert
 
 print(x)

@@ -1,6 +1,6 @@
 import numpy as np 
 # arr= np.zeros(5)
-# arr=np.zeros((2,3))
+# # arr=np.zeros((2,3))
 # arr=np.ones((2,3))
 
 # print(arr)
